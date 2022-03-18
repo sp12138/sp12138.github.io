@@ -21,17 +21,17 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 
 ## Publications
 - ***Zifan Chen***, Jie Zhao, Hao Yu, Yue Zhang, Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022. [Paper](https://arxiv.org/pdf/2203.08408.pdf) [Code](https://github.com/czifan/CCFNet.pytorch) [More details](https://czifan.github.io/publication/2022-03-16-ccfnet)
-- Yue Zhang, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [More details](https://czifan.github.io/publication/2022-03-18-clnetzy)
-- **Zifan Chen**, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021. [More details](https://czifan.github.io/publication/2021-03-03-ecr)
-- **Zifan Chen**, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021. [Paper](https://arxiv.org/pdf/2105.07245.pdf) [More details](https://czifan.github.io/publication/2021-05-15-clnet)
-- **陈梓帆**, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
-- **陈梓帆**, 赵杰, 张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
+- *Yue Zhang*, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [More details](https://czifan.github.io/publication/2022-03-18-clnetzy)
+- ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021. [More details](https://czifan.github.io/publication/2021-03-03-ecr)
+- ***Zifan Chen***, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021. [Paper](https://arxiv.org/pdf/2105.07245.pdf) [More details](https://czifan.github.io/publication/2021-05-15-clnet)
+- ***陈梓帆***, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
+- ***陈梓帆***, 赵杰, 张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
 
 ## Competitions
-- **Zifan Chen**, Hexin, Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. [More details](https://czifan.github.io/https:/zhijiangcup.zhejianglab.com/zhijiang/match/details/id/7.html)
-- **Zifan Chen**, Jie Zhao, Li Zhang. The 4th place in the preliminary of National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. [More details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531860/introduction)
-- **Zifan Chen**, Jie Zhao, Li Zhang. Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge, 2020. [More details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531796/introduction)
-- Xing Tao, **Zifan Chen**. Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition, 2020. [More details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0)
+- ***Zifan Chen***, Hexin, Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. [More details](https://czifan.github.io/https:/zhijiangcup.zhejianglab.com/zhijiang/match/details/id/7.html)
+- ***Zifan Chen***, Jie Zhao, Li Zhang. The 4th place in the preliminary of National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. [More details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531860/introduction)
+- ***Zifan Chen***, Jie Zhao, Li Zhang. Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge, 2020. [More details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531796/introduction)
+- *Xing Tao*, **Zifan Chen**. Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition, 2020. [More details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0)
 
 ## News
 - Mar. 18, 2022 Update [Main page](https://czifan.github.io/)
