@@ -1,12 +1,12 @@
----
+<!-- ---
 permalink: /
-title: ""
+title: "Academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
 I am a graduate student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
 
