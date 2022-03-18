@@ -6,8 +6,8 @@ main:
   - title: "Competitions"
     url: /talks/    
         
-#   - title: "Blogs"
-#     url: /blog/
+  - title: "Blogs"
+    url: /blog/
     
 #   - title: "CV"
 #     url: /cv/
