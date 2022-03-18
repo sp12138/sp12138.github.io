@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zifan Chen"
   avatar           : "profile.png"
-  bio              : # "I am a graduate student in the Center for Data Science of Peking University, Beijing."
+  bio              : "A graduate student in the Center for Data Science of Peking University, Beijing."
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=0000-0002-1928-3755%40orcid"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/czifan"
+  github           : "czifan"
   google_plus      :
   keybase          :
   instagram        :
