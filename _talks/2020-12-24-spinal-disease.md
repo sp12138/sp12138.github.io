@@ -1,7 +1,7 @@
 ---
 title: "Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge"
 collection: competitions
-type: "Competition"
+type: "Big Data Competition"
 permalink: https://tianchi.aliyun.com/competition/entrance/531796/introduction
 venue: "the 2020 Spinal Disease Intelligent Diagnosis AI Challenge"
 date: 2020-12-24
