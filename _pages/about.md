@@ -16,8 +16,8 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 
 ## Informations
 - Email: czifan@pku.edu.cn
-- Github: https://github.com/czifan/
-- Blog: https://www.cnblogs.com/CZiFan/
+- Github: [https://github.com/czifan/](https://github.com/czifan/)
+- Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
 - **Zifan Chen**, Jie Zhao, Hao Yu, Yue Zhang, Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022. [More details](https://czifan.github.io/publication/2022-03-16-ccfnet)
