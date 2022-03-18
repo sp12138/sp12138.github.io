@@ -2,7 +2,7 @@
 title: "Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition (2021)."
 collection: competitions
 type: "Big Data Competition"
-permalink: https://zhejianglab.aliyun.com/entrance/531816/rankingList/0
+permalink: zeroshotob
 venue: "the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition (2021)"
 date: 2021-12-17
 location: "Hangzhou, China"
