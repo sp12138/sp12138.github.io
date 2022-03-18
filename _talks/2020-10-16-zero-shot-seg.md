@@ -2,7 +2,7 @@
 title: "Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition (2020)."
 collection: competitions
 type: "Big Data Competition"
-permalink: https://zhejianglab.aliyun.com/entrance/531816/rankingList/0
+permalink: comingsoon
 venue: "the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition (2020)"
 date: 2020-10-16
 location: "Hangzhou, China"
