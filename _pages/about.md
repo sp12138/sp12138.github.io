@@ -24,8 +24,8 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 - Yue Zhang, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [More details](https://czifan.github.io/publication/2022-03-18-clnetzy)
 - **Zifan Chen**, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021. [More details](https://czifan.github.io/publication/2021-03-03-ecr)
 - **Zifan Chen**, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021. [More details](https://czifan.github.io/publication/2021-05-15-clnet)
-- **陈梓帆**,张立,季加孚,董彬,赵杰,唐磊,李佳铮,刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
-- **陈梓帆**,赵杰,张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
+- **陈梓帆**, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
+- **陈梓帆**, 赵杰, 张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
 
 ## Competitions
 - **Zifan Chen**, Hexin, Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. [More details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0)
