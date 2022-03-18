@@ -19,6 +19,18 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 - Github: https://github.com/czifan/
 - Blog: https://www.cnblogs.com/CZiFan/
 
+## Publications
+- **Zifan Chen**, Jie Zhao, Hao Yu, Yue Zhang, Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022. [More details](https://czifan.github.io/publication/2022-03-16-ccfnet)
+- Yue Zhang, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [More details](https://czifan.github.io/publication/2022-03-18-clnetzy)
+- **Zifan Chen**, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021. [More details](https://czifan.github.io/publication/2021-03-03-ecr)
+- **Zifan Chen**, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021. [More details](https://czifan.github.io/publication/2021-05-15-clnet)
+
+## Competitions
+- **Zifan Chen**, Hexin, Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. [More details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0)
+- **Zifan Chen**, Jie Zhao, Li Zhang. Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge, 2020. [More details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531796/introduction)
+- Xing Tao, **Zifan Chen**. Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition, 2020. [More details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0)
+- **Zifan Chen**, Jie Zhao, Li Zhang. The 4th place in the preliminary of National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. [More details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531860/introduction)
+
 ## News
 - 03/18/2022 Update [Competitions](https://czifan.github.io/talks/)
 - 03/18/2022 Update [Publications](https://czifan.github.io/publications/)
