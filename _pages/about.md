@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zifan Chen's academic personal websites"
+title: "Academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
