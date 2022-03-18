@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Center for Data Science of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
+I am a graduate student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
 
 ## Education
 - 09/01/2015-06/31/2019: Bachelor degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
