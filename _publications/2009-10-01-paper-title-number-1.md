@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Composite Localization for Human Pose Estimation"
+collection: pre-print
+permalink: 'https://arxiv.org/abs/2105.07245'
+excerpt: 'The existing human pose estimation methods are confronted with inaccurate long-distance regression or high computational cost due to the complex learning objectives. This work proposes a novel deep learning framework for human pose estimation called composite localization to divide the complex learning objective into two simpler ones: a sparse heatmap to find the keypoint's approximate location and two short-distance offsetmaps to obtain its final precise coordinates. To realize the framework, we construct two types of composite localization networks: CLNet-ResNet and CLNet-Hourglass. We evaluate the networks on three benchmark datasets, including the Leeds Sports Pose dataset, the MPII Human Pose dataset, and the COCO keypoints detection dataset. The experimental results show that our CLNet-ResNet50 outperforms SimpleBaseline by 1.14% with about 1/2 GFLOPs. Our CLNet-Hourglass outperforms the original stacked-hourglass by 4.45% on COCO.'
+date: 2021-05-15
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2105.07245.pdf'
+citation: 'Chen, ZiFan, et al. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245 (2021).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The existing human pose estimation methods are confronted with inaccurate long-distance regression or high computational cost due to the complex learning objectives. This work proposes a novel deep learning framework for human pose estimation called composite localization to divide the complex learning objective into two simpler ones: a sparse heatmap to find the keypoint's approximate location and two short-distance offsetmaps to obtain its final precise coordinates. To realize the framework, we construct two types of composite localization networks: CLNet-ResNet and CLNet-Hourglass. We evaluate the networks on three benchmark datasets, including the Leeds Sports Pose dataset, the MPII Human Pose dataset, and the COCO keypoints detection dataset. The experimental results show that our CLNet-ResNet50 outperforms SimpleBaseline by 1.14% with about 1/2 GFLOPs. Our CLNet-Hourglass outperforms the original stacked-hourglass by 4.45% on COCO.
+[Download paper here](https://arxiv.org/pdf/2105.07245.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Recommended citation: Chen, ZiFan, et al. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245 (2021).
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+'''
+@article{chen2021composite,
+  title={Composite Localization for Human Pose Estimation},
+  author={Chen, ZiFan and Qin, Xin and Yang, Chao and Zhang, Li},
+  journal={arXiv preprint arXiv:2105.07245},
+  year={2021}
+}
+'''
