@@ -8,7 +8,7 @@ date: 2020-10-16
 location: "Hangzhou, China"
 ---
 
-[The competition page](https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0)
+[The competition page](https://zhejianglab.aliyun.com/entrance/531816/rankingList/0)
 
 *Xing Tao*, **Zifan Chen**
 
