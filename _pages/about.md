@@ -11,8 +11,8 @@ redirect_from:
 I am a graduate student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
 
 ## Education
+- Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University.
 - Sep. 1, 2015 to Jun. 31, 2019: Bachelor degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
-- Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University
 
 ## Informations
 - Email: czifan@pku.edu.cn
