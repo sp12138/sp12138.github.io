@@ -20,6 +20,7 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
+$\underline{X}$
 - *Hexin Dong*, ***Zifan Chen***, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, Li Zhang. "Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation." IJCAI 2022.
 - ***Zifan Chen***, Jie Zhao, Hao Yu, Yue Zhang, Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022. [Paper](https://arxiv.org/pdf/2203.08408.pdf) [Code](https://github.com/czifan/CCFNet.pytorch) [Details](https://czifan.github.io/publication/2022-03-16-ccfnet)
 - *Yue Zhang*, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [Details](https://czifan.github.io/publication/2022-03-18-clnetzy)
