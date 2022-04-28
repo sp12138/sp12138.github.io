@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "Competitions"
-    url: /talks/    
+#   - title: "Competitions"
+#     url: /talks/    
         
-  - title: "Blogs"
-    url: /blog/
+#   - title: "Blogs"
+#     url: /blog/
     
 #   - title: "CV"
 #     url: /cv/
