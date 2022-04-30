@@ -25,7 +25,7 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 <!-- [Details](https://czifan.github.io/publication/2022-03-16-ccfnet) -->
 - *Yue Zhang*, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [Paper](https://ieeexplore.ieee.org/document/9761474) 
 <!-- [Details](https://czifan.github.io/publication/2022-03-18-clnetzy) -->
-- ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021.（第一作者）
+- ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021.（第一作者）[Lecture](https://connect.myesr.org/course/ai-in-abdominal-imaging/)
 <!-- [Details](https://czifan.github.io/publication/2021-03-03-ecr)  -->
 - ***Zifan Chen***, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021.（第一作者）[Paper](https://arxiv.org/pdf/2105.07245.pdf)
 <!--  [Details](https://czifan.github.io/publication/2021-05-15-clnet)  -->
