@@ -20,16 +20,16 @@ I am a graduate student in the Center for Big Data of Peking University, Beijing
 - Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
 
 ## Publications
-- ***Zifan Chen***, *Zhe Wu*, Xian Wu, Li Zhang, Jie Zhao, Yangtian Yan, and Yefeng Zheng. "Contractible Regularization for Federated Learning on Non-IID Data." The IEEE International Conference on Data Mining (ICDM), Regular, 2022. (共同第一作者) 
+- ***Zifan Chen***, *Zhe Wu*, Xian Wu, Li Zhang, Jie Zhao, Yangtian Yan, Yefeng Zheng. "Contractible Regularization for Federated Learning on Non-IID Data." The IEEE International Conference on Data Mining (ICDM), Regular, 2022. (共同第一作者) 
 - Chen et al. "Predicting response to immunotherapy in gastric cancer via multi-dimensional analyses of the tumour immune microenvironment." Nature Communications, 2022. [Paper](https://www.nature.com/articles/s41467-022-32570-z)
-- *Hexin Dong*, ***Zifan Chen***, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, and Li Zhang. "Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation." The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.（共同第一作者）[Paper](https://www.ijcai.org/proceedings/2022/0121.pdf) [Appendix](https://arxiv.org/abs/2205.08083) [Code](https://github.com/czifan/RAML)
-- ***Zifan Chen***, Jie Zhao, Hao Yu, Yue Zhang, and Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022.（第一作者）[Paper](https://ieeexplore.ieee.org/document/9761528) [Code](https://github.com/czifan/CCFNet.pytorch)
+- *Hexin Dong*, ***Zifan Chen***, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, Li Zhang. "Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation." The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.（共同第一作者）[Paper](https://www.ijcai.org/proceedings/2022/0121.pdf) [Appendix](https://arxiv.org/abs/2205.08083) [Code](https://github.com/czifan/RAML)
+- ***Zifan Chen***, Jie Zhao, Hao Yu, Yue Zhang, Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022.（第一作者）[Paper](https://ieeexplore.ieee.org/document/9761528) [Code](https://github.com/czifan/CCFNet.pytorch)
 <!-- [Details](https://czifan.github.io/publication/2022-03-16-ccfnet) -->
 - *Yue Zhang*, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [Paper](https://ieeexplore.ieee.org/document/9761474) 
 <!-- [Details](https://czifan.github.io/publication/2022-03-18-clnetzy) -->
-- ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, and Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021.（第一作者）[Lecture](https://connect.myesr.org/course/ai-in-abdominal-imaging/)
+- ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021.（第一作者）[Lecture](https://connect.myesr.org/course/ai-in-abdominal-imaging/)
 <!-- [Details](https://czifan.github.io/publication/2021-03-03-ecr)  -->
-- ***Zifan Chen***, Xin Qin, Chao Yang, and Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021.（第一作者）[Paper](https://arxiv.org/pdf/2105.07245.pdf)
+- ***Zifan Chen***, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021.（第一作者）[Paper](https://arxiv.org/pdf/2105.07245.pdf)
 <!--  [Details](https://czifan.github.io/publication/2021-05-15-clnet)  -->
 - ***陈梓帆***, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
 - ***陈梓帆***, 赵杰, 张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
