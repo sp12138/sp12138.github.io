@@ -8,50 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Center for Big Data of Peking University, Beijing. I work on deep learning in medical imaging and computer vision. Before that, I did my bachelor's at the school of Hunan University.
+I am a master student in Xiamen University, Xiamen. I work on federated learning, long-tail learning and semi-supervised learning.
 
 ## Education
-- Sep. 1, 2019 to Now: Master of Data Science, Center for Big Data, Peking University.
-- Sep. 1, 2015 to Jun. 31, 2019: Bachelor degree in Computer Science and Technology, College of Information Science and Engineering, Hunan University.
+- Sep. 1, 2020 to Now: Master of Computer Science and Technology, School of Information Science and Engineering, Xiamen University.
+- Sep. 1, 2016 to Jun. 31, 2020: Bachelor degree in Computer Science and Technology, School of Information and Safety Engineering, Zhongnan University of Economics and Law.
 
 ## Informations
-- Email: czifan@pku.edu.cn
-- Github: [https://github.com/czifan/](https://github.com/czifan/)
-- Blog: [https://www.cnblogs.com/CZiFan/](https://www.cnblogs.com/CZiFan/)
+- Email: shangxinyi@stu.xmu.edu.cn
+- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
+- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
 
 ## Publications
-- ***Zifan Chen***, *Zhe Wu*, Xian Wu, Li Zhang, Jie Zhao, Yangtian Yan, Yefeng Zheng. "Contractible Regularization for Federated Learning on Non-IID Data." The IEEE International Conference on Data Mining (ICDM), Regular paper, 2022. (共同第一作者) [Code](https://github.com/czifan/ConTre.pytorch)
-- Chen et al. "Predicting response to immunotherapy in gastric cancer via multi-dimensional analyses of the tumour immune microenvironment." Nature Communications, 2022. [Paper](https://www.nature.com/articles/s41467-022-32570-z)
-- *Hexin Dong*, ***Zifan Chen***, Mingze Yuan, Yutong Xie, Jie Zhao, Fei Yu, Bin Dong, Li Zhang. "Region-Aware Metric Learning for Open World Semantic Segmentation via Meta-Channel Aggregation." The 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022.（共同第一作者）[Paper](https://www.ijcai.org/proceedings/2022/0121.pdf) [Appendix](https://arxiv.org/abs/2205.08083) [Code](https://github.com/czifan/RAML)
-- ***Zifan Chen***, Jie Zhao, Hao Yu, Yue Zhang, Li Zhang. "Multi-Scale Context-Guided Lumbar Spine Disease Identification with Coarse-to-fine Localization and Classification." IEEE International Symposium on Biomedical Imaging (ISBI), Oral, 2022.（第一作者）[Paper](https://ieeexplore.ieee.org/document/9761528) [Code](https://github.com/czifan/CCFNet.pytorch)
-<!-- [Details](https://czifan.github.io/publication/2022-03-16-ccfnet) -->
-- *Yue Zhang*, **Zifan Chen**, Hao Yu, Xinyu Yao, Hongfeng Li. "Feature Fusion for Segmentation and Classification of Skin Lesions." IEEE International Symposium on Biomedical Imaging (ISBI), Poster, 2022. [Paper](https://ieeexplore.ieee.org/document/9761474) 
-<!-- [Details](https://czifan.github.io/publication/2022-03-18-clnetzy) -->
-- ***Zifan Chen***, Jiazheng Li, Yiting Liu, Jie Zhao, Li Zhang, Lei Tang, Bin Dong. "Slice-propagated 3D Gastric Tumour Segmentation From A Single 2D Annotation." European Congress of Radiology (ECR), Oral, 2021.（第一作者）[Lecture](https://connect.myesr.org/course/ai-in-abdominal-imaging/)
-<!-- [Details](https://czifan.github.io/publication/2021-03-03-ecr)  -->
-- ***Zifan Chen***, Xin Qin, Chao Yang, Li Zhang. "Composite Localization for Human Pose Estimation." arXiv preprint arXiv:2105.07245, 2021.（第一作者）[Paper](https://arxiv.org/pdf/2105.07245.pdf)
-<!--  [Details](https://czifan.github.io/publication/2021-05-15-clnet)  -->
-- ***陈梓帆***, 张立, 季加孚, 董彬, 赵杰, 唐磊, 李佳铮, 刘一婷. 基于目标影像的病灶检测方法和装置. 专利申请公布号: CN112634224A, 申请日: 2020.12.17, 申请公布日: 2021.04.09.
-- ***陈梓帆***, 赵杰, 张立. 脊柱疾病检测方法和装置. 专利申请公布号: CN112614092A, 申请日: 2020.12.11, 申请公布日: 2021.04.06.
+- ***Xinyi Shang***, Yang Lu$^\ast$, Gang Huang, and Hanzi Wang, "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features.", International Joint Conference on Artificial Intelligence (IJCAI), 2022, accepted. (第一作者) [arXiv](https://arxiv.org/pdf/2204.13399.pdf) .[code](https://github.com/shangxinyi/CReFF-FL)
+- ***Xinyi Shang***, Yang Lu$^\ast$, Yiu-ming Cheung, and Hanzi Wang, ``FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation'', International Conference on Multimedia and Expo (ICME), 2022, accepted. (第一作者) [arXiv](https://arxiv.org/pdf/2205.00172.pdf) [code](https://github.com/shangxinyi/FEDIC)
+- ***Xinyi Shang***, *Gang Huang$*, Yang Lu$^\ast$, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang, ``Federated Semi-Supervised Learning with Annotation Heterogeneity'', submitted to AAAI Conference on Artificial Intelligence (AAAI), 2023. (共同第一作者)
+- Zexi Li, Tao Lin, ***Xinyi Shang***, Chao Wu$^\ast$, ``Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization'', submitted to International Conference on Learning Representations (ICLR), 2023.
+- 卢杨,***尚心怡***, 黄刚, 华炜, 王菡子. 一种面向长尾异构数据的联邦学习方法. 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03.
 
 Tip: *Italics* indicate the first author.
 
-## Competitions
-- ***Zifan Chen***, Hexin, Dong, Fei Yu, Jie Zhao, Mingze Yuan, Li Zhang. Second prize in the Zero-shot object detection of Zhijiang Cup Global Artificial Intelligence Competition, 2021. 
-<!-- [Details](https://czifan.github.io/https:/zhijiangcup.zhejianglab.com/zhijiang/match/details/id/7.html) -->
-- ***Zifan Chen***, Jie Zhao, Li Zhang. The 4th place in the preliminary of National Digital Ecological Innovation Contest - Intelligent Algorithm Contes, 2021. 
-<!-- [Details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531860/introduction) -->
-- ***Zifan Chen***, Jie Zhao, Li Zhang. Runner-up of the 2020 Spinal Disease Intelligent Diagnosis AI Challenge, 2020. 
-<!-- [Details](https://czifan.github.io/https:/tianchi.aliyun.com/competition/entrance/531796/introduction) -->
-- *Xing Tao*, **Zifan Chen**. Third prize in the Zero-shot segmentation of Zhijiang Cup Global Artificial Intelligence Competition, 2020. 
-<!-- [Details](https://czifan.github.io/https:/zhejianglab.aliyun.com/entrance/531816/rankingList/0) -->
-
 Tip: *Italics* indicate the first author.
 
-<!-- ## News
-- Mar. 18, 2022 Update [Main page](https://czifan.github.io/)
-- Mar. 18, 2022 Update [Competitions](https://czifan.github.io/talks/)
-- Mar. 18, 2022 Update [Publications](https://czifan.github.io/publications/) -->
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
