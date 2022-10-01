@@ -26,9 +26,8 @@ I am a master student in Xiamen University, Xiamen. I work on federated learning
 - Zexi Li, Tao Lin, ***Xinyi Shang***, Chao Wu, ``Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization'', submitted to International Conference on Learning Representations (ICLR), 2023.
 - 卢杨,***尚心怡***, 黄刚, 华炜, 王菡子. 一种面向长尾异构数据的联邦学习方法. 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03.
 
-## Tip: *Italics* indicate the first author.
+<!--Tip: *Italics* indicate the first author.-->
 
-## Tip: *Italics* indicate the first author.
 
 
 
