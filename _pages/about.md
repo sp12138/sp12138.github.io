@@ -31,6 +31,13 @@ I am Xinyi Shang, a third-year master's student in Computer Science and Technolo
 
 <!--Tip: *Italics* indicate the first author.-->
 
+## Research Interns and social activities
+- 2022.06-2022.09: Research Intern
+  - MARS lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
+  - Research: Federated learning
+- 2017.09-2019.06: Social activity
+  - Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919?fr=aladdin) (a national supporting education organization)
+
 ## Honors and awards
 - National Scholarship, 2022 (Top 0.2% nationwide).
 - Excellent Merit Student of Xiamen University, 2022 (Top 2%).
