@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xinyi Shang, a third-year master's student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
+I am Xinyi, a third-year master's student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
 <!-- ## Education
 - Sep. 1, 2020 to Now: Master of Computer Science and Technology, School of Information Science and Engineering, Xiamen University.
