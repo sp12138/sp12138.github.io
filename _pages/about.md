@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Xiamen University, Xiamen. I work on federated learning, long-tail learning and semi-supervised learning.
+I am Xinyi Shang, a third-year master's student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
-## Education
+<!-- ## Education
 - Sep. 1, 2020 to Now: Master of Computer Science and Technology, School of Information Science and Engineering, Xiamen University.
-- Sep. 1, 2016 to Jun. 31, 2020: Bachelor degree in Computer Science and Technology, School of Information and Safety Engineering, Zhongnan University of Economics and Law.
+- Sep. 1, 2016 to Jun. 31, 2020: Bachelor degree in Computer Science and Technology, School of Information and Safety Engineering, Zhongnan University of Economics and Law.-->
+## Research interests
+- Federated Learning
+- Long-tail Learning
+- Semi-supervised Learning
 
 ## Informations
 - Email: shangxinyi@stu.xmu.edu.cn
@@ -23,11 +27,17 @@ I am a master student in Xiamen University, Xiamen. I work on federated learning
 - ***Xinyi Shang***, <u>Yang Lu</u>, Gang Huang, and Hanzi Wang, "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features.", International Joint Conference on Artificial Intelligence (IJCAI), 2022, accepted.  [arXiv](https://arxiv.org/pdf/2204.13399.pdf) .[code](https://github.com/shangxinyi/CReFF-FL)
 - ***Xinyi Shang***, <u>Yang Lu</u>, Yiu-ming Cheung, and Hanzi Wang, ``FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation'', International Conference on Multimedia and Expo (ICME), 2022, accepted.  [arXiv](https://arxiv.org/pdf/2205.00172.pdf) [code](https://github.com/shangxinyi/FEDIC)
 - ***Xinyi Shang***, Gang Huang, <u>Yang Lu</u>, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang, ``Federated Semi-Supervised Learning with Annotation Heterogeneity'', submitted to AAAI Conference on Artificial Intelligence (AAAI), 2023.
-- Zexi Li, Tao Lin, ***Xinyi Shang***, Chao Wu, ``Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization'', submitted to International Conference on Learning Representations (ICLR), 2023.
+<!-- - Zexi Li, Tao Lin, ***Xinyi Shang***, Chao Wu, ``Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization'', submitted to International Conference on Learning Representations (ICLR), 2023.-->
 - 卢杨,***尚心怡***, 黄刚, 华炜, 王菡子. 一种面向长尾异构数据的联邦学习方法. 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03.
 
 <!--Tip: *Italics* indicate the first author.-->
 
+## Honors and awards
+- National Scholarship, 2022 (Top 0.2% nationwide).
+- Excellent Merit Student of Xiamen University, 2022 (Top 2%).
+- Merit Student of Xiamen University, 2021 (Top 8%).
+- China College Students Innovation and Entrepreneurship Competition, 2019 (Two provincial projects).
+- Provincial Excellent Volunteer, 2019 (Volunteer for more than 500 hours).
 
 
 
