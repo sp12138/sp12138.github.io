@@ -37,6 +37,7 @@ I am Xinyi Shang, a third-year master's student in Computer Science and Technolo
   - Research: Federated learning
 - 2017.09-2019.06: Social activity
   - Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919?fr=aladdin) (a national supporting education organization)
+  - The organization has supported 53 rural primary schools in Sichuan and Guangxi provinces, directly supporting more than 10,000 rural primary students.
 
 ## Honors and awards
 - National Scholarship, 2022 (Top 0.2% nationwide)
