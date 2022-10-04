@@ -10,7 +10,7 @@ redirect_from:
 
 I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, very fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
-## Research interests
+## Research Interests
 - Federated Learning with Imperfect Data
   - Heterogeneous Data
   - Long-tailed Data
