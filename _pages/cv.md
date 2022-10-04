@@ -7,13 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## Education
+Education
+======
 
 * M.S. in Computer Science and Technology, Xiamen University, 2023 (expected)
 * B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
 
-## Honors and awards (Seclected)
-
+Honors and awards (Seclected)
+======
 - National Scholarship, 2022 (Top 0.2% nationwide)
 - Excellent Merit Student of Xiamen University, 2022 (Top 2%)
 - Merit Student of Xiamen University, 2021 (Top 8%)
@@ -21,7 +22,8 @@ redirect_from:
 - Provincial Excellent Volunteer honor, 2019 (Volunteer for more than 500 hours)
 - Star of volunteers honor, 2018 (only one place in my college every year)
 
-## Research interns and voluntary activities
+Research interns and voluntary activities
+======
 - 2022.06-2022.09: Research intern
   - MARS Lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
   - Research: Federated learning
@@ -32,8 +34,8 @@ redirect_from:
   - Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919?fr=aladdin).
   - We-Bright has supported 53 rural primary schools in Sichuan and Guangxi provinces, directly supporting more than 10,000 rural primary students.
 
-## Hobbies
-
+Hobbies
+======
 - [Cooking and Bakery](https://shangxinyi.github.io/bakery.pdf): I hope I will own my bakery.
 - [Drawing](https://shangxinyi.github.io/drawing.pdf): I feel peaceful whenever I draw.
 - Photography and keeping journal: I have been keeping track of my life and enjoying my life.
