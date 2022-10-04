@@ -6,9 +6,10 @@ author_profile: true
 ---
 
   You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
+  
+  \# indicates equal contributions, * indicates corresponding author.
 
 ## Conferences
-\# indicates equal contributions, * indicates corresponding author.
 
 - [<span style="color:blue"><strong>IJCAI'22</strong></span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features<br>
   **Xinyi Shang**, Yang Lu*, Gang Huang, and Hanzi Wang<br>
