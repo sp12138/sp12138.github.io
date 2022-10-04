@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+## Education
 
 * M.S. in Computer Science and Technology, Xiamen University, 2023 (expected)
 * B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
