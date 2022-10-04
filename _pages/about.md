@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
+I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, very fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
 ## Research interests
 - Federated Learning with Imperfect Data
   - Heterogeneous Data
   - Long-tailed Data
-  - Unlabeld Data
+  - Unlabeled Data
 
 ## Informations
 - Email: shangxinyi@stu.xmu.edu.cn
