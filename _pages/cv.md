@@ -33,7 +33,7 @@ Education
   - Teach For China is inspired by the vision that one day, all Chinese children will have access to a quality education. 
 - 2017.09-2019.06: Voluntary activity
   - Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919?fr=aladdin).
-  - The organization has supported 53 rural primary schools in Sichuan and Guangxi provinces, directly supporting more than 10,000 rural primary students.
+  - We-Bright has supported 53 rural primary schools in Sichuan and Guangxi provinces, directly supporting more than 10,000 rural primary students.
 
 ## Hobbies
 
