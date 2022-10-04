@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.S. in Computer Science and Technology, Xiamen University, 2023 (expected)
+* B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Honors and awards (Seclected)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- National Scholarship, 2022 (Top 0.2% nationwide)
+- Excellent Merit Student of Xiamen University, 2022 (Top 2%)
+- Merit Student of Xiamen University, 2021 (Top 8%)
+- China College Students Innovation and Entrepreneurship Competition, 2019 (Two provincial projects)
+- Provincial Excellent Volunteer, 2019 (Volunteer for more than 500 hours)
+
+## Research interns and social activities
+
+- 2022.06-2022.09: Research Intern
+  - MARS Lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
+  - Research: Federated learning
+- 2017.09-2019.06: Social activity
+  - Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919?fr=aladdin) (a national supporting education organization)
+  - The organization has supported 53 rural primary schools in Sichuan and Guangxi provinces, directly supporting more than 10,000 rural primary students.
+
+## Hobbies
+
+- [Cooking and Bakery](https://shangxinyi.github.io/bakery.pdf): I hope I will own my bakery.
+- [Drawing](https://shangxinyi.github.io/drawing.pdf): I feel peaceful whenever I draw。
+- Photography and keeping journal: I have been keeping track of my life and enjoying my life.
