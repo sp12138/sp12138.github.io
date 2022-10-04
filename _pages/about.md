@@ -8,48 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am Xinyi, a third-year master's student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
+I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
-<!-- ## Education
-- Sep. 1, 2020 to Now: Master of Computer Science and Technology, School of Information Science and Engineering, Xiamen University.
-- Sep. 1, 2016 to Jun. 31, 2020: Bachelor degree in Computer Science and Technology, School of Information and Safety Engineering, Zhongnan University of Economics and Law.-->
 ## Research interests
-- Federated Learning
-- Long-tail Learning
-- Semi-supervised Learning
+- Federated Learning with Imperfect Data
+  - Heterogeneous Data
+  - Long-tailed Data
+  - Unlabeld Data
 
 ## Informations
 - Email: shangxinyi@stu.xmu.edu.cn
 - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
 
-## Publications
-- **[IJCAI'22]** ***Xinyi Shang***, <u>Yang Lu</u>, Gang Huang, and Hanzi Wang, "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features.", International Joint Conference on Artificial Intelligence (IJCAI), 2022, accepted.  [[arXiv]](https://arxiv.org/pdf/2204.13399.pdf) .[[code]](https://github.com/shangxinyi/CReFF-FL)
-- **[ICME'22 (Oral)]** ***Xinyi Shang***, <u>Yang Lu</u>, Yiu-ming Cheung, and Hanzi Wang, "FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation", International Conference on Multimedia and Expo (ICME), 2022, accepted, oral.  [[arXiv]](https://arxiv.org/pdf/2205.00172.pdf) [[code]](https://github.com/shangxinyi/FEDIC)
-<!--Xinyi Shang, Gang Huang, <u>Yang Lu</u>, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang, ``Federated Semi-Supervised Learning with Annotation Heterogeneity'', submitted to AAAI Conference on Artificial Intelligence (AAAI), 2023.-->
-- 卢杨,***尚心怡***, 黄刚, 华炜, 王菡子. 一种面向长尾异构数据的联邦学习方法. 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03.
-
 <!--Tip: *Italics* indicate the first author.-->
 
-## Honors and awards
-- National Scholarship, 2022 (Top 0.2% nationwide)
-- Excellent Merit Student of Xiamen University, 2022 (Top 2%)
-- Merit Student of Xiamen University, 2021 (Top 8%)
-- China College Students Innovation and Entrepreneurship Competition, 2019 (Two provincial projects)
-- Provincial Excellent Volunteer, 2019 (Volunteer for more than 500 hours)
+## Recent News
+- **Sep 29 2022**: I get the National Scholarship.
+- **Apr 21 2022**: One IJCAI paper  "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features" is accepted.
+- **Mar 6 2022**: One ICME paper  "FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation" is accepted as oral paper.
 
-## Research interns and social activities
-- 2022.06-2022.09: Research Intern
-  - MARS lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
-  - Research: Federated learning
-- 2017.09-2019.06: Social activity
-  - Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919?fr=aladdin) (a national supporting education organization)
-  - The organization has supported 53 rural primary schools in Sichuan and Guangxi provinces, directly supporting more than 10,000 rural primary students.
-
-## Hobbies
-- [Cooking and Bakery](https://shangxinyi.github.io/bakery.pdf)
-- [Drawing](https://shangxinyi.github.io/drawing.pdf)
-- Photography and keeping journal
+## Academic Service
+- Help for Review: Neurocomputing, NeurIPS2022, AAAI2023.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
