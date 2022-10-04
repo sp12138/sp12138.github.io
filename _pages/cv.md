@@ -12,7 +12,7 @@ Education
 * M.S. in Computer Science and Technology, Xiamen University, 2023 (expected)
 * B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
 
-Honors and awards (Seclected)
+Honors and Awards (Seclected)
 ======
 - National Scholarship, 2022 (Top 0.2% nationwide)
 - Excellent Merit Student of Xiamen University, 2022 (Top 2%)
@@ -21,7 +21,7 @@ Honors and awards (Seclected)
 - Provincial Excellent Volunteer honor, 2019 (Volunteer for more than 500 hours)
 - Star of Excellent Volunteers honor, 2018 (only one place in my college every year)
 
-Research interns and voluntary activities
+Research Interns and Voluntary Activities
 ======
 - 2022.06-2022.09: Research intern
   - MARS Lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
