@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ Honors and awards (Seclected)
 - Merit Student of Xiamen University, 2021 (Top 8%)
 - China College Students Innovation and Entrepreneurship Competition, 2020 (Two provincial projects)
 - Provincial Excellent Volunteer honor, 2019 (Volunteer for more than 500 hours)
-- Star of volunteers honor, 2018 (only one place in my college every year)
+- Star of Excellent Volunteers honor, 2018 (only one place in my college every year)
 
 Research interns and voluntary activities
 ======
