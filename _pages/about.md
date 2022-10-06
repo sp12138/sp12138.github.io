@@ -16,7 +16,7 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
   - Long-tailed Data
   - Unlabeled Data
 
-## Informations
+## Information
 - Email: shangxinyi@stu.xmu.edu.cn
 - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
