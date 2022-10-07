@@ -22,8 +22,6 @@ author_profile: true
   [[arXiv](https://arxiv.org/abs/2205.00172)][[code](https://github.com/shangxinyi/FEDIC)]
 
 - [<span style="color:blue"><strong>Preprint</strong></span>] Federated Semi-Supervised Learning with Annotation Heterogeneity <br> **Xinyi Shang**\#, Gang Huang\#, Yang Lu\*, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang, 2022.
-- [<span style="color:blue"><strong>Preprint</strong></span>] Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization<br>
-Zexi Li, Tao Lin, **Xinyi Shang**, and Chao Wu, 2022
 
 ## Patents
 - [<span style="color:blue"><strong>专利</strong></span>] 一种面向长尾异构数据的联邦学习方法 <br> 卢杨,**尚心怡**, 黄刚, 华炜, 王菡子.<br> 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03.
