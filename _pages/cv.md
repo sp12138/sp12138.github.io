@@ -12,7 +12,7 @@ Education
 - M.S. in Computer Science and Technology, Xiamen University, 2023 (expected)
 - B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
 
-Honors and Awards (Seclected)
+Honors and Awards (Selected)
 ======
 - National Scholarship, 2022 (Top 0.2% nationwide)
 - Excellent Merit Student of Xiamen University, 2022 (Top 2%)
