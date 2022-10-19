@@ -14,7 +14,7 @@ Education
 
 Honors and Awards (Selected)
 ======
-- National Scholarship, 2022 (Top 0.2% nationwide)
+- China National Scholarship, 2022 (Top 0.2%, the highest level scholarship established by the central government.)
 - Excellent Merit Student of Xiamen University, 2022 (Top 2%)
 - Merit Student of Xiamen University, 2021 (Top 8%)
 - China College Students Innovation and Entrepreneurship Competition, 2020 (Two provincial projects)
