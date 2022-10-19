@@ -17,7 +17,7 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
   - Unlabeled Data
 
 ## Information
-- Email: shangxinyi@stu.xmu.edu.cn
+- Email: shangxinyi@stu.xmu.edu.cn, xinyi.shangxy@outlook.com
 - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
 
