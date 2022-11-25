@@ -23,6 +23,9 @@ Honors and Awards (Selected)
 
 Research Interns and Voluntary Activities
 ======
+- 2022.11-Present: Research intern
+  - [LINs Lab](https://lins-lab.github.io/), Westlake university, supervised by [Dr. Tao Lin](https://tlin-taolin.github.io/)
+  - Research: Decentralized deep learning
 - 2022.06-2022.09: Research intern
   - MARS Lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
   - Research: Federated learning
