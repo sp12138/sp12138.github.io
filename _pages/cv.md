@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-- M.S. in Computer Science and Technology, Xiamen University, 2023 (expected)
+- M.S. in Computer Science, Xiamen University, 2023 (expected)
 - B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
 
 Honors and Awards (Selected)
@@ -24,7 +24,7 @@ Honors and Awards (Selected)
 Research Interns and Voluntary Activities
 ======
 - 2022.11-Present: Research intern
-  - [LINs Lab](https://lins-lab.github.io/), Westlake university, supervised by [Dr. Tao Lin](https://tlin-taolin.github.io/)
+  - [LINs Lab](https://lins-lab.github.io/), Westlake university, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/)
   - Research: Decentralized deep learning
 - 2022.06-2022.09: Research intern
   - MARS Lab, Wuhan university, supervised by [Prof. Mang Ye](https://marswhu.github.io/)
