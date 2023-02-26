@@ -39,5 +39,5 @@ Research Interns and Voluntary Activities
 Hobbies
 ======
 - [Cooking and Bakery](https://shangxinyi.github.io/bakery.pdf): I hope I will own my bakery.
-- [Drawing](https://shangxinyi.github.io/drawing.pdf): I feel peaceful whenever I draw.
+- [Drawing](https://shangxinyi.github.io/drawing.pdf)
 - Photography and keeping journal: I have been keeping track of my life and enjoying my life.
