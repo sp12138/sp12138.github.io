@@ -24,7 +24,8 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
 <!--Tip: *Italics* indicate the first author.-->
 
 ## Recent News
-- **Sep 29 2022**: I get the China National Scholarship.
+- **March 28 2023**: Receive the PhD offer from University College London (UCL) supported by UCL-CSC scholarship!
+- **Sep 29 2022**: I get the China National Scholarshi!
 - **Apr 21 2022**: One IJCAI paper  "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features" is accepted.
 - **Mar 6 2022**: One ICME paper  "FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation" is accepted as oral paper.
 
