@@ -11,11 +11,11 @@ redirect_from:
 I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, very fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
 ## Research Interests
-- Imperfect Data (Training)
-  - Heterogeneous Data （Federated Learning）
-  - Long-tailed Data （Long-tail Learning)
+- **Imperfect Data (Training)**
+  - Heterogeneous Data (Federated Learning）
+  - Long-tailed Data (Long-tail Learning)
   - Unlabeled Data (Semi-supervised Learning)
-- Imperfect Data (Test)
+- **Imperfect Data (Test)**
   - Out-of-distribution Data (Model Generalization)
 
 ## Information
@@ -28,8 +28,8 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
 ## Recent News
 - **March 28 2023**: Receive the PhD offer from University College London (UCL) supported by UCL-CSC scholarship!
 - **Sep 29 2022**: I get the China National Scholarship.
-- **Apr 21 2022**: One IJCAI paper  "Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features" is accepted.
-- **Mar 6 2022**: One ICME paper  "FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation" is accepted as oral paper.
+- **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted.
+- **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper.
 
 ## Academic Service
 - Invited Reviewers: TNNLS.
