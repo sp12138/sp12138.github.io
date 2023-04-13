@@ -19,7 +19,7 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
   - Out-of-distribution Data (Model Generalization)
 
 ## Information
-- Email: xinyi.shangxy [AT] gmail.com
+- Email: xinyi.shangxy [at] gmail.com
 - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
 
