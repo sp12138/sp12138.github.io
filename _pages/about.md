@@ -11,13 +11,15 @@ redirect_from:
 I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, very fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
 ## Research Interests
-- Federated Learning with Imperfect Data
-  - Heterogeneous Data
-  - Long-tailed Data
-  - Unlabeled Data
+- Imperfect Data (Training)
+  - Heterogeneous Data （Federated Learning）
+  - Long-tailed Data （Long-tail Learning)
+  - Unlabeled Data (Semi-supervised Learning)
+- Imperfect Data (Test)
+  - Out-of-distribution Data (Model Generalization)
 
 ## Information
-- Email: shangxinyi@stu.xmu.edu.cn, xinyi.shangxy@outlook.com
+- Email: xinyi.shangxy [AT] gmail.com
 - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
 - Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
 
