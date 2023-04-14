@@ -17,12 +17,12 @@ author_profile: true
   [[arXiv](https://arxiv.org/abs/2204.13399)][[code](https://github.com/shangxinyi/CReFF-FL)]
   
 - [<span style="color:blue"><strong>ICME'22 (Oral)</strong></span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation<br>
-  **Xinyi Shang**, [Yang Lu\*](https://jasonyanglu.github.io/), [Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), and [Hanzi Wang](https://pami.xmu.edu.cn/hanzi/)<br>
+  **Xinyi Shang**, Yang Lu\*, [Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), and Hanzi Wang<br>
   *IEEE International Conference on Multimedia and Expo*, pp.1-6, Taipei, Taiwan, July 18-22, 2022. (CCF B) <br>
   [[arXiv](https://arxiv.org/abs/2205.00172)][[code](https://github.com/shangxinyi/FEDIC)]
 
 - [<span style="color:blue"><strong>Preprint</strong></span>] Federated Semi-Supervised Learning with Annotation Heterogeneity <br> 
-   **Xinyi Shang**\#, [Gang Huang\#](https://gondor.org/), [Yang Lu\*](https://jasonyanglu.github.io/), [Jian Lou](https://sites.google.com/view/jianlou), [Bo Han](https://bhanml.github.io/), [Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), and [Hanzi Wang](https://pami.xmu.edu.cn/hanzi/). 2023.<br>
+   **Xinyi Shang**\#, Gang Huang\#, Yang Lu\*, [Jian Lou](https://sites.google.com/view/jianlou), [Bo Han](https://bhanml.github.io/), Yiu-ming Cheung, and Hanzi Wang. 2023.<br>
     [[arXiv](https://arxiv.org/abs/2303.02445)]
 
 
@@ -32,7 +32,7 @@ author_profile: true
 
 
 - [<span style="color:blue"><strong>Preprint</strong></span>] Revisiting Weighted Aggregation in Federated Learning with Neural Networks <br> 
-  [Zexi Li](https://zexilee.github.io/about-zexili//), [Tao Lin](https://tlin-taolin.github.io/), **Xinyi Shang**, and [Chao Wu](https://wuchaozju.github.io/). 2023.<br>
+  Zexi Li, Tao Lin, **Xinyi Shang**, and Chao Wu. 2023.<br>
   [[arXiv](https://arxiv.org/abs/2302.10911)]
 
 ## Patents
