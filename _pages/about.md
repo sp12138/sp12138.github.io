@@ -27,7 +27,7 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
 
 
 ## Recent News
-- **May 19 2023**: I successfully defended my master thesis and receive the **Outstanding Master Thesis** Award.
+- **May 19 2023**: I successfully defend my master thesis and receive the **Outstanding Master Thesis** Award.
 - **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by UCL-CSC scholarship!
 - **Nov 23 2022**: I start research intern in Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
 - **Sep 29 2022**: I get the China National Scholarship.
