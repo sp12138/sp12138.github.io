@@ -27,10 +27,10 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
 
 
 ## Recent News
-- **May 19 2023**: I successfully defend my master thesis and receive the **Outstanding Master Thesis** Award.
+- **May 19 2023**: Receive the **Outstanding Master Thesis** Award.
 - **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by UCL-CSC scholarship!
-- **Nov 23 2022**: I start research intern in Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
-- **Sep 29 2022**: I get the China National Scholarship.
+- **Nov 23 2022**: Start research intern in Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
+- **Sep 29 2022**: Get the China National Scholarship.
 - **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted.
 - **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper.
 
