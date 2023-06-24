@@ -9,8 +9,7 @@ redirect_from:
 
 Education
 ======
-- M.S. in Computer Science, Xiamen University, 2023 (expected)
-- B.S. in Computer Science and Technology, Zhongnan University of Economics and Law, 2020
+- M.S. in Computer Science, Xiamen University, 2023
 
 Honors and Awards (Selected)
 ======
