@@ -19,8 +19,9 @@ author_profile: true
 - [<span style="color:blue"><strong>Preprint</strong></span>] Federated Semi-Supervised Learning with Annotation Heterogeneity <br> 
    **Xinyi Shang**\#, Gang Huang\#, Yang Lu\*, [Jian Lou](https://sites.google.com/view/jianlou), [Bo Han](https://bhanml.github.io/), Yiu-ming Cheung, and Hanzi Wang. 2023.<br>
     [[arXiv](https://arxiv.org/abs/2303.02445)]
-- [<span style="color:blue"><strong>Preprint</strong></span>] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier <br> 
+- [<span style="color:blue"><strong>ICCV'23</strong></span>] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier <br> 
   [Zexi Li](https://zexilee.github.io/about-zexili//), **Xinyi Shang**, Rui He, [Tao Lin](https://tlin-taolin.github.io/), [Chao Wu](https://wuchaozju.github.io/). 2023.<br>
+   *International Conference on Computer Vision*, Paris, France, October 2-6, 2023.<br>
   [[arXiv](https://arxiv.org/abs/2303.10058)]
 
 
