@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am Xinyi, a third-year master student in Computer Science and Technology (expected graduation in 2023 Summer), Xiamen University, very fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
+I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative deep learning** and **Generalized Deep Learning under imperfect environments**.
 
 ## Research Interests
-- **Imperfect Data (Training)**
-  - Heterogeneous Data (Federated Learning）
-  - Long-tailed Data (Long-tail Learning)
-  - Unlabeled Data (Semi-supervised Learning)
-- **Imperfect Data (Test)**
-  - Out-of-distribution Data (Model Generalization)
+- **Collaborative deep learning**
+  - Federated Learning
+- **Generalized Deep Learning**
+  - Long-tailed Learning
+  - Semi-supervised Learning
+  - Out-of-distribution Generalization
+  - Underspecification Data
 
 ## Information
 - Email: xinyi.shangxy [at] gmail.com
@@ -29,7 +29,7 @@ I am Xinyi, a third-year master student in Computer Science and Technology (expe
 ## Recent News
 - **May 19 2023**: Receive the **Outstanding Master Thesis** Award.
 - **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by UCL-CSC scholarship!
-- **Nov 23 2022**: Start research intern in Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
+- **Nov 23 2022**: Start research intern at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
 - **Sep 29 2022**: Get the China National Scholarship.
 - **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted.
 - **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper.
