@@ -9,11 +9,13 @@ redirect_from:
 
 Education
 ======
+- Ph.D. in Statistics Science, University College London, 2027 (expected)
 - M.S. in Computer Science, Xiamen University, 2023
 
 Honors and Awards (Selected)
 ======
 - Xiamen University Outstanding Graduates, 2023.
+- Xiamen University Outstanding Master Thesis, 2023.
 - China National Scholarship, 2022 (Top 0.2%, the highest level scholarship established by the central government.)
 - Excellent Merit Student of Xiamen University, 2022 (Top 2%)
 - Merit Student of Xiamen University, 2021 (Top 8%)
