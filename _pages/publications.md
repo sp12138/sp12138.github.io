@@ -35,5 +35,6 @@ author_profile: true
   **Xinyi Shang**, Yang Lu\*, [Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), and Hanzi Wang<br>
   *IEEE International Conference on Multimedia and Expo*, pp.1-6, Taipei, Taiwan, July 18-22, 2022.<br>
   [[arXiv](https://arxiv.org/abs/2205.00172)][[code](https://github.com/shangxinyi/FEDIC)]
-<!-- ## Patents
- - [<span style="color:blue"><strong>专利</strong></span>] 一种面向长尾异构数据的联邦学习方法 <br> 卢杨,**尚心怡**, 黄刚, 华炜, 王菡子.<br> 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03. -->
+
+<!-- ## Patents -->
+<!--  - [<span style="color:blue"><strong>专利</strong></span>] 一种面向长尾异构数据的联邦学习方法 <br> 卢杨,**尚心怡**, 黄刚, 华炜, 王菡子.<br> 专利申请公布号: CN114429219A, 申请日: 2021.12.09, 申请公布日: 2022.05.03. -->
