@@ -7,14 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative deep learning** and **Generalized Deep Learning under imperfect environments**.
+I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative Deep Learning** and **Generalized Deep Learning under imperfect environments**.
 
 ## Research Interests
 - **Collaborative deep learning**
   - Federated Learning
 - **Generalized Deep Learning**
   - Long-tailed Learning
-  - Semi-supervised Learning
   - Out-of-distribution Generalization
   - Underspecification Data
 
@@ -35,8 +34,7 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
 - **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper.
 
 ## Academic Service
-- Invited Reviewers: TNNLS.
-- Help for Review: NeurIPS2022, AAAI2023.
+- Reviewers: TNNLS, NeurIPS2022, AAAI2023.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
