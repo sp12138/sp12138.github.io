@@ -20,7 +20,7 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
 ## Information
 - Email: xinyi.shangxy [at] gmail.com
 - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
-- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=h_VczmEAAAAJ&hl=zh-CN&oi=ao)
+- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
 
 <!--Tip: *Italics* indicate the first author.-->
 
