@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Peng Sun"
-  avatar           : "profile1.jpg"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. Student, Westlake University."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ"
   email            : "sunpeng@westlake.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
