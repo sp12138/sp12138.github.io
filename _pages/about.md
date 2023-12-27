@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Peng, a Ph.D. candidate at Westlake University.
+I'm Peng, currently embarking on my first year as a Ph.D. candidate at Westlake University.
 My main research interests lie in figuring out when and why deep learning works from the aspects of **Information** and **Functional**.
 
 ## Research Interests
